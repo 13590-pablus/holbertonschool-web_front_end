@@ -25,7 +25,7 @@
   --section-title-color: var(--color-black);
 }
 
-/* Task 15: Universal box-sizing */
+/* Universal box sizing */
 *, *:before, *:after {
   box-sizing: border-box;
 }
